@@ -1,0 +1,13 @@
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\bin\Debug\EmpresaXYZ.BLL.dll
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\bin\Debug\EmpresaXYZ.BLL.pdb
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\bin\Debug\EmpresaXYZ.DAL.dll
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\bin\Debug\EmpresaXYZ.Models.dll
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\bin\Debug\EmpresaXYZ.DAL.pdb
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\bin\Debug\EmpresaXYZ.Models.pdb
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\obj\Debug\EmpresaXYZ.BLL.csprojAssemblyReference.cache
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\obj\Debug\EmpresaXYZ.BLL.csproj.CoreCompileInputs.cache
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\obj\Debug\EmpresaXYZ.BLL.csproj.CopyComplete
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\obj\Debug\EmpresaXYZ.BLL.dll
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\obj\Debug\EmpresaXYZ.BLL.pdb
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\bin\Debug\EmpresaXYZ.mdf
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.BLL\bin\Debug\EmpresaXYZ_log.ldf
