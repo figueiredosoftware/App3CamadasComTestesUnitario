@@ -1,8 +1,8 @@
 C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.Models\bin\Debug\EmpresaXYZ.Models.dll
 C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.Models\bin\Debug\EmpresaXYZ.Models.pdb
-C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.Models\obj\Debug\EmpresaXYZ.Models.csprojAssemblyReference.cache
 C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.Models\obj\Debug\EmpresaXYZ.Models.csproj.CoreCompileInputs.cache
 C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.Models\obj\Debug\EmpresaXYZ.Models.dll
 C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.Models\obj\Debug\EmpresaXYZ.Models.pdb
 C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.Models\bin\Debug\EmpresaXYZ.mdf
 C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.Models\bin\Debug\EmpresaXYZ_log.ldf
+C:\Alessandro\Projetos\Projetos Versionados\App3CamadasComTestesUnitario\EmpresaXYZ\EmpresaXYZ.Models\obj\Debug\EmpresaXYZ.Models.csprojAssemblyReference.cache

@@ -32,6 +32,29 @@ namespace EmpresaXYZ.DAL
             return cmd;
         }
 
+        //Metodo que retorna o resultado de um Scalar quando é um inteiro
+        public static int ExecuteScalarInt(DbCommand cmd)
+        {
+            AbrirConexaoSeNecessario(cmd);
+            int resultado = Convert.ToInt32(cmd.ExecuteScalar());
+            return resultado;
+        }
+
+        //Retorna um DataReader
+        public static DbDataReader ExecuteReader(DbCommand cmd)
+        {
+            AbrirConexaoSeNecessario(cmd);
+            DbDataReader dr = cmd.ExecuteReader(CommandBehavior.CloseConnection);
+            return dr;
+        }
+
+        //Execute NonQuery
+        public static int ExecuteNonQuery(DbCommand cmd)
+        {
+            AbrirConexaoSeNecessario(cmd);
+            int resultado = cmd.ExecuteNonQuery();
+            return resultado;
+        }
 
     }
 }
